@@ -9,8 +9,7 @@ _Get started using GitHub in less than an hour._
   Include start button, a note about Actions minutes,
   and tell the learner why they should take the course.
   Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details>
+  The start <details> should have `open
 -->
 
 <!--step0
