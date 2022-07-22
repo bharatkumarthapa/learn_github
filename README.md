@@ -5,7 +5,7 @@
 _Get started using GitHub in less than an hour._
 
 
-  Include start button, a note about Actions minutes,
+  
   and tell the learner why they should take the 
 -->
 
