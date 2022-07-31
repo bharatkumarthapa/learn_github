@@ -1,6 +1,5 @@
 
 <!-- 
-  l image, 
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
