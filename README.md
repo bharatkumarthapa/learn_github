@@ -1,7 +1,6 @@
 
 <!-- 
   
-   add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
